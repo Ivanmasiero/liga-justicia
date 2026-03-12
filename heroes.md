@@ -7,4 +7,3 @@
 * Linterna Verde
 * Robin
 * Volcán Negro
-* Spiderman
